@@ -1,3 +1,9 @@
+html {
+  height: 100%;
+  width: 100%;
+	background-color: #F1EEDD;
+}
+
 .title{
 	background-color: #FFA144;
 	width: 750px;  
@@ -8,7 +14,7 @@
 	
 }
 
-.navBar {
+.navBar { 
 	text-align: left;
  
   background: #FFA144;
@@ -18,5 +24,4 @@ button {
   background: #FFA144;
   color:#828282;
   border: none;
-}
 }

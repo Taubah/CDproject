@@ -1,3 +1,9 @@
+html {
+  height: 100%;
+  width: 100%;
+	background-color: #F1EEDD;
+}
+
 .title {
 	background-color: #91FCE8;
 	width: 750px;  
@@ -7,10 +13,8 @@
   color:#616161
 }
 
-.navBar {
+.navBar { /*buttons on banner */
 	text-align: left;
-  background: #91FCE8;
-  border: none;
 }
 button {
   background: #91FCE8;

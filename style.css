@@ -1,11 +1,15 @@
-
-
 html {
   height: 100%;
   width: 100%;
+	background-color: #F1EEDD;
+}
+
+body{
+	margin: 0px;
 }
 
 .title{
+	padding: 60px;
 	background-color: #FFE054;
 	width: 750px;  
 	height: 175px;
@@ -17,23 +21,33 @@ html {
 
 .navBar {
 	text-align: left;
-  background: ##FFE054;
   border: none;
 }
 button {
-  background: #FFE054;
-  color:#828282;
   border: none;
+}
+
+.home {
+	background-color: #FFE054;
+}
+
+.res {
+	background-color: #FFE054;
 }
 
  .twoButtons {
 	padding-top: 30px;
+	
 } 
 
 .tipsButton{
- 
+	background-color: #F1EEDD;
+	color:black;
 }
 
-.gwhButton {
-	text-align: right;
+.gwButton {
+	background-color: #F1EEDD;
 }
+
+
+
