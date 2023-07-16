@@ -37,7 +37,7 @@ button {
  .twoButtons {
 	padding-top: 30px;
 	 display: flex;
-  justify-content: space-between;
+   justify-content: space-between; 
 } 
 
 .tipsButton{
@@ -52,6 +52,27 @@ button {
 	padding-right: 220px;
 	padding-left: 220px;
 	background-color: #F1EEDD;
+}
+
+.buttonDesc {
+	display: flex;
+   justify-content: space-between; 
+}
+
+.textOne {
+	padding-bottom: 220 px;
+	padding-right: 220px;
+	padding-left: 220px;
+	text-align: center;
+	color:#4d4d4d; 
+}
+
+.textTwo {
+	padding-bottom: 220 px;
+	padding-right: 220px;
+	padding-left: 220p;
+	text-align: center;
+	color:#4d4d4d; 
 }
 
 
