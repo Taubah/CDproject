@@ -1,10 +1,19 @@
 .title {
-	background-color: #2d8b44;
+	background-color: #91FCE8;
 	width: 750px;  
 	height: 175px;
 	padding-top: 0px;
+  font-family: "Dancing Script", cursive;
+  color:#616161
 }
 
 .navBar {
 	text-align: left;
+  background: #91FCE8;
+  border: none;
+}
+button {
+  background: #91FCE8;
+  color:#828282;
+  border: none;
 }

@@ -1,19 +1,29 @@
+
+
 html {
   height: 100%;
   width: 100%;
 }
 
-.title {
+.title{
 	background-color: #FFE054;
 	width: 750px;  
 	height: 175px;
 	padding-top: 0px;
+  font-family: "Dancing Script", cursive;
+  color:#828282
 }
+
 
 .navBar {
 	text-align: left;
-	background: #FFE054;
-	border: none;
+  background: ##FFE054;
+  border: none;
+}
+button {
+  background: #FFE054;
+  color:#828282;
+  border: none;
 }
 
  .twoButtons {
