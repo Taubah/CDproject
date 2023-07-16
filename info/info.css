@@ -4,20 +4,29 @@ html {
 	background-color: #F1EEDD;
 }
 
-.title {
-	background-color: #91FCE8;
-	width: 750px;  
-	height: 175px;
-	padding-top: 0px;
-  font-family: "Dancing Script", cursive;
-  color:#616161
-}
+body{
+	margin: 0; 
+	}
 
+.title {
+	padding: 60px;
+	padding-top: 0px;
+	background-color: #94D4FF; 
+	height: 175px;
+  font-family: "Dancing Script", cursive;
+    color:#4d4d4d;  
+}
+.GW { /* GW is all text above image */
+    color:#4d4d4d;  
+}
+.OA{ /* OA is all text after image */
+  color:#4d4d4d;  
+}
 .navBar { /*buttons on banner */
 	text-align: left;
 }
 button {
-  background: #91FCE8;
-  color:#828282;
+  background: #94D4FF;
+  color:#4d4d4d;  
   border: none;
 }

@@ -4,17 +4,24 @@ html {
 	background-color: #F1EEDD;
 }
 
+body{
+	margin: 0; 
+	}
+
 .title {
-	background-color: #91FCE8;
-	width: 750px;  
-	height: 175px;
+	padding: 60px;
 	padding-top: 0px;
+	background-color: #FFE054;
+	height: 175px;
+  font-family: "Dancing Script", cursive;
+  color:#4d4d4d;  
+  
 }
 
 .navBar { /*buttons on banner */
 	text-align: left;
 }
 button {
-  background: #91FCE8;
+  background: #FFE054;
   border: none;
 }

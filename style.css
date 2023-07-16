@@ -1,21 +1,20 @@
 html {
   height: 100%;
   width: 100%;
-	background-color: #F1EEDD;
+	background-color: #F1EEDD; 
 }
 
 body{
-	margin: 0px;
-}
+	margin: 0; 
+	}
 
 .title{
 	padding: 60px;
-	background-color: #FFE054;
-	width: 750px;  
-	height: 175px;
 	padding-top: 0px;
+	background-color: #FFE054;  
+	height: 175px;
   font-family: "Dancing Script", cursive;
-  color:#828282
+   color:#4d4d4d;  
 }
 
 
@@ -37,15 +36,21 @@ button {
 
  .twoButtons {
 	padding-top: 30px;
-	
+	 display: flex;
+  justify-content: space-between;
 } 
 
 .tipsButton{
+	padding-bottom: 220 px;
+	padding-right: 220px;
+	padding-left: 220px;
 	background-color: #F1EEDD;
-	color:black;
 }
 
 .gwButton {
+	padding-bottom: 220 px;
+	padding-right: 220px;
+	padding-left: 220px;
 	background-color: #F1EEDD;
 }
 

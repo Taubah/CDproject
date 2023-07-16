@@ -4,24 +4,27 @@ html {
 	background-color: #F1EEDD;
 }
 
+body{
+	margin: 0; 
+	}
+
 .title{
-	background-color: #FFA144;
-	width: 750px;  
-	height: 175px;
+	padding: 60px;
 	padding-top: 0px;
+	background-color: #FFA144; 
+	height: 175px;
   font-family: "Dancing Script", cursive;
-  color:#828282
+    color:#4d4d4d;  
 	
 }
 
 .navBar { 
 	text-align: left;
- 
   background: #FFA144;
   border: none;
 }
 button {
   background: #FFA144;
-  color:#828282;
+    color:#4d4d4d;  
   border: none;
 }
