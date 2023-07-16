@@ -4,8 +4,18 @@ html {
 	background-color: #F1EEDD; 
 }
 
+
+img{
+  display:flex; 
+  align-items:center;
+  justify-content: center;
+}
+
+
 body{
-	margin: 0; 
+	margin: 0;
+  font-family: "Lucida Console", "Courier New", monospace;
+    color:#4d4d4d; 
 	}
 
 .title{
@@ -13,8 +23,8 @@ body{
 	padding-top: 0px;
 	background-color: #FFE054;  
 	height: 175px;
-  font-family: "Dancing Script", cursive;
-   color:#4d4d4d;  
+   font-family: "Lucida Console", "Courier New", monospace;
+  color:#4d4d4d;  
 }
 
 
@@ -63,7 +73,7 @@ button {
 	padding-bottom: 220 px;
 	padding-right: 220px;
 	padding-left: 220px;
-	text-align: center;
+	text-align: left;
 	color:#4d4d4d; 
 }
 
@@ -71,7 +81,7 @@ button {
 	padding-bottom: 220 px;
 	padding-right: 220px;
 	padding-left: 220p;
-	text-align: center;
+	text-align: right;
 	color:#4d4d4d; 
 }
 

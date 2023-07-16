@@ -1,13 +1,13 @@
-// var actionsList = $('.OA');
-// var add = $('.add');
+var actionList = $('.sustain-resources');
+var add = $('.add');
 
 
-// add.on("click", addActionsToList);
+add.on("click", addActionToList);
 
-// function addActionsToList() {
-//   event.preventDefault();
-//   var store = $('.actions').val();
-// actionsList.append(`
-//     <p>${actions}</p>
-//   `);
-// }
+function addActionToList() {
+  event.preventDefault();
+  var action = $('.favActions').val();
+  actionList.append(`
+    <p>${action}</p>
+  `);
+}

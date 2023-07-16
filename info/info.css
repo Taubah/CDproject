@@ -5,7 +5,9 @@ html {
 }
 
 body{
-	margin: 0; 
+	margin: 0;
+   font-family: "Lucida Console", "Courier New", monospace;
+    color:#4d4d4d; 
 	}
 
 .title {
@@ -13,15 +15,10 @@ body{
 	padding-top: 0px;
 	background-color: #94D4FF; 
 	height: 175px;
-  font-family: "Dancing Script", cursive;
+   font-family: "Lucida Console", "Courier New", monospace;
     color:#4d4d4d;  
 }
-.GW { /* GW is all text above image */
-    color:#4d4d4d;  
-}
-.OA{ /* OA is all text after image */
-  color:#4d4d4d;  
-}
+
 .navBar { /*buttons on banner */
 	text-align: left;
 }

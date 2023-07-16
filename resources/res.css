@@ -6,6 +6,8 @@ html {
 
 body{
 	margin: 0; 
+  font-family: "Lucida Console", "Courier New", monospace;
+    color:#4d4d4d; 
 	}
 
 .title {
@@ -13,7 +15,7 @@ body{
 	padding-top: 0px;
 	background-color: #FFE054;
 	height: 175px;
-  font-family: "Dancing Script", cursive;
+ font-family: "Lucida Console", "Courier New", monospace;
   color:#4d4d4d;  
   
 }
@@ -24,4 +26,7 @@ body{
 button {
   background: #FFE054;
   border: none;
+}
+p{
+	color:#4d4d4d
 }

@@ -13,7 +13,7 @@ body{
 	padding-top: 0px;
 	background-color: #FFA144; 
 	height: 175px;
-  font-family: "Dancing Script", cursive;
+   font-family: "Lucida Console", "Courier New", monospace;
     color:#4d4d4d;  
 	
 }
@@ -49,4 +49,9 @@ button {
   content: "";
   display: table;
   clear: both;
+}
+
+body{
+  color: #4d4d4d; 
+  font-family: "Lucida Console", "Courier New", monospace;
 }
